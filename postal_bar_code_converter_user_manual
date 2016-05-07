@@ -1,0 +1,35 @@
+User Manual:-
+
+
+
+/***************************************************************************************************
+PROGRAM : postal_bar_code_converter.cpp
+PURPOSE : This program will convert any five digit zipcode into its complete barcode. For this reason,
+          it will take the integer value of the zipcode as an input, and will show the barcode as an output.
+          Here, the program will ask its user  to input a zipcode, the program will convert it into barcode.
+          The program will continue to ask its user as long as the user
+          inputs integers. If the user inputs anything other than integers[i.e. any character like- 'a', etc],
+          then the program will terminate, and end its process. But if the user inputs any decimal number,
+          the program will only count the integer part of the input.
+Coder :   Mosfiqur Rahman (mr986@drexel.edu)
+Last Modified : 9th Febrruary, 2016.
+***************************************************************************************************/
+
+
+To run the program, please open the postal_bar_code_converter.cpp file in a compiler that is able to compile any program, which is written in C++. After that, build and run the program. 
+
+A new window will pop-up. It will show you a few lines about the purpose of the program. Then it will ask you to enter a five digit zipcode. While entering your input, please keep a few thinks in mind-
+
+1) Don't give a negetavie number as an input, because it will show you an error alert, and ask you to enter the zipcode again.
+2) Don't give a decimal number as an input, because if you do so, the program will just count the integer part before the decimal point for further calculation.
+3) Don't give any input outside integers, because if you give any value other than integers, the program will terminate, and end its process.
+
+Now, if you can avoid all these three mistakes, and give a perfect zipcode as an input, then my program will give you the converted barcode for your zipcode as an output instantly. Moreover, you will be able 
+to use as many times as you want without closing or re-build, and running unless you make any input mistake.
+
+
+At last, thanks for using my program.
+Let me know, if you have some more queries or you need more cool programs like this.
+
+
+
